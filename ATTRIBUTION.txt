@@ -1,0 +1,32 @@
+光が丘公園・ゲーム用地図データ — 帰属と利用条件
+
+地図データ：© OpenStreetMap contributors
+
+本パッケージに収録するOpenStreetMapの原データ及びOSM由来の編集済み地図データは、
+Open Data Commons Open Database License (ODbL) 1.0に従って利用できます。
+ライセンス全文は同梱の LICENSE-ODbL-1.0.txt を参照してください。
+
+OpenStreetMapの著作権・ライセンス案内：
+https://www.openstreetmap.org/copyright
+ODbL 1.0公式ページ：
+https://opendatacommons.org/licenses/odbl/1-0/
+
+ODbLの対象は収録するOSM由来の地図データです。独立したゲームプログラム、音声、
+UI、創作モデル等の利用条件を、この文書だけで変更するものではありません。
+OSM由来の座標・道路・区域等を修正した情報も、編集済み地図データに含めます。
+データを再配布する際は、ODbLの条件に従い、この帰属とライセンス情報を保持してください。
+
+地形・植生配置の出典：
+国土地理院の地理院タイル（標高タイルDEM1A・DEM5A、全国最新写真［シームレス］）
+を加工し、本ゲーム制作者が地形・植生配置を作成。
+地理院タイル一覧：
+https://maps.gsi.go.jp/development/ichiran.html
+国土地理院コンテンツ利用規約：
+https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html
+
+国土地理院由来の独立したデータは、OSM由来データとは出典を区別して扱います。
+元の国土地理院コンテンツの条件は上記規約を参照してください。
+本ゲームはOpenStreetMap財団や国土地理院が制作・承認した公式作品ではありません。
+
+
+配布準備日：2026-10-04。現在のStudio保存内容と地図文字列を照合し、16移動先・空間設定を抽出しました。
